@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🚀 EKS Cluster Auto-Scaler Setup
 
 ## 🌍 Real-World Scenario
